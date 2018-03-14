@@ -1,0 +1,5 @@
+node_modules/
+npm-debug.log
+
+# Banco de dados
+ntask.sqlite
